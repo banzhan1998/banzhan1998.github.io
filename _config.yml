@@ -7,7 +7,7 @@
 
 # Site settings
 title: BanZhan
-brief-intro:Student
+brief-intro: Student
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://banzhan1998.github.io" # the base hostname & protocol for your site
 
