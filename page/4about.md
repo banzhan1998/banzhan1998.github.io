@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-研究生在读
+研究生在读  
 研究方向：
 
 
@@ -23,7 +23,7 @@ type: page
 
 ## 友情链接
 
-本博客参考链接:https://github.com/Gaohaoyang/gaohaoyang.github.io
+本博客参考链接:https://github.com/Gaohaoyang/gaohaoyang.github.io  
                https://github.com/zx950519/zx950519.github.io
 
 ## Comments
