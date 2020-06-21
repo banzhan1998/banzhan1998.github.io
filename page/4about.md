@@ -24,8 +24,9 @@ type: page
 
 ## 友情链接
 
-本博客参考链接:https://github.com/Gaohaoyang/gaohaoyang.github.io  
-               https://github.com/zx950519/zx950519.github.io
+本博客参考链接:  
+[Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)  
+[zx950519](https://github.com/zx950519/zx950519.github.io)
 
 ## Comments
 
