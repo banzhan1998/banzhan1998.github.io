@@ -19,7 +19,7 @@ type: page
 ## 联系我
 
 * GitHub：[banzhan1998](https://github.com/banzhan1998)
-* email：banzhan1998@foxmail.com
+* Email：banzhan1998@foxmail.com
 
 
 ## 友情链接
